@@ -4,7 +4,7 @@
 
 ### Sobre:
 ---
- * Desenvolver Junior
+ * Desenvolvedor Junior
  * Ensino: Estudante de Engenharia de Software e Técnico em Informática
  * Qualidades: Gostar de aprender, criativo e foco
  * Idade: 20 anos
