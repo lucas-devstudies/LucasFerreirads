@@ -26,5 +26,6 @@
 [Instagram](instagram.com/lucas.devstudies)
  * ![icons8-linkedin-48](https://user-images.githubusercontent.com/87401472/193131325-a5013cbd-8d50-4f9b-adec-18497e6daf78.png)
 [LinkedIn](https://www.linkedin.com/in/lucas-ferreira-da-silva-a32625207)
- *![icons8-behance-48](https://user-images.githubusercontent.com/87401472/193131440-bd2e87c7-6ad5-4d4a-a0e9-4fe7872c8f45.png) 
-[LinkedIn](https://www.linkedin.com/in/lucas-ferreira-da-silva-a32625207)
+ * ![icons8-behance-48](https://user-images.githubusercontent.com/87401472/193131669-7766db2d-5cd0-47ff-907e-9029ce8701c8.png)
+[Behance]([https://www.linkedin.com/in/lucas-ferreira-da-silva-a32625207](https://www.behance.net/lucassilva567))
+
