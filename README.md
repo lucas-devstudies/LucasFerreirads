@@ -6,7 +6,7 @@
 ---
  * Atuação: Desenvolvedor Junior
  * Ensino: Estudante de Engenharia de Software e Técnico em Informática
- * Qualidades: Gostar de aprender, criativo e foco
+ * Qualidades: Gostar de aprender coisas novas, ser criativo e focodo
  * Idade: 20 anos
 
 
