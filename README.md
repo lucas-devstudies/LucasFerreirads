@@ -20,6 +20,11 @@
 
 ### Conexões:
 ---
- * [Gmail](lucasfdasilva2002@gmail.com)
- * [Instagram](instagram.com/lucas.devstudies)
- * [LinkedIn](https://www.linkedin.com/in/lucas-ferreira-da-silva-a32625207)
+ * ![icons8-gmail-48](https://user-images.githubusercontent.com/87401472/193131154-49de3267-2cfc-4411-a79e-a9d7ac42209d.png)
+[Gmail](lucasfdasilva2002@gmail.com)
+ * ![icons8-instagram-48 (1)](https://user-images.githubusercontent.com/87401472/193131233-6b546933-ad6a-412f-9230-53e281d851d1.png)
+[Instagram](instagram.com/lucas.devstudies)
+ * ![icons8-linkedin-48](https://user-images.githubusercontent.com/87401472/193131325-a5013cbd-8d50-4f9b-adec-18497e6daf78.png)
+[LinkedIn](https://www.linkedin.com/in/lucas-ferreira-da-silva-a32625207)
+ *![icons8-behance-48](https://user-images.githubusercontent.com/87401472/193131440-bd2e87c7-6ad5-4d4a-a0e9-4fe7872c8f45.png) 
+[LinkedIn](https://www.linkedin.com/in/lucas-ferreira-da-silva-a32625207)
