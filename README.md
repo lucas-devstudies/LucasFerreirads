@@ -4,10 +4,7 @@
 
 ### Sobre:
 ---
- * Atuação: Desenvolvedor Junior
- * Ensino: Estudante de Engenharia de Software e Técnico em Informática
- * Qualidades: Gostar de aprender coisas novas, ser criativo e focodo
- * Idade: 20 anos
+Tenho 20 anos, sou técnico em informática e estudante de Análise e Desenvolvimento de Sistemas de forma EAD. Atualmente sou um desenvolvedor front-end junior, com pouca experiência, mas estudando desenvolvimento full-stacks em desenvolvimento web, juntamente com Ui e Ux design. Trabalhei em um projeto com bolsista, fazendo um software de baixo custo para automação de de temperatura. Possuo sólidos conhecimentos em Python, Xml, FIgma e Adobe Xd. Tenho interesse na produção de aplicações, sendo o front-end minha maior paixão.
 
 
 ### Tecnologias:
