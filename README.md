@@ -25,3 +25,6 @@ Tenho 20 anos, sou técnico em informática e estudante de Análise e Desenvolvi
 
  * [Behance](https://www.behance.net/lucassilva567)
 
+### Certificações:
+---
+* [Acessar os cursos]([lucasfdasilva2002@gmail.com](https://drive.google.com/drive/folders/1Q2t48qORWWKhalnXnbfae8jlQWNdS7dQ?usp=sharing)https://drive.google.com/drive/folders/1Q2t48qORWWKhalnXnbfae8jlQWNdS7dQ?usp=sharing)
