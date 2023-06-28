@@ -27,4 +27,4 @@ Tenho 20 anos, sou técnico em informática e estudante de Análise e Desenvolvi
 
 ### Certificações:
 ---
-* [Acessar os cursos]([lucasfdasilva2002@gmail.com](https://drive.google.com/drive/folders/1Q2t48qORWWKhalnXnbfae8jlQWNdS7dQ?usp=sharing)https://drive.google.com/drive/folders/1Q2t48qORWWKhalnXnbfae8jlQWNdS7dQ?usp=sharing)
+* [Acessar os cursos](lucasfdasilva2002@gmail.com](https://drive.google.com/drive/folders/1Q2t48qORWWKhalnXnbfae8jlQWNdS7dQ?usp=sharing)https://drive.google.com/drive/folders/1Q2t48qORWWKhalnXnbfae8jlQWNdS7dQ?usp=sharing)
